@@ -239,13 +239,14 @@ ansible all -m ping -e "ansible_python_interpreter=/usr/bin/python3"
 4. **Increase Verbosity**: Use `-v`, `-vv`, or `-vvv` for more detailed output
 5. **Test in Isolation**: Test each exercise independently before moving on
 
-## Contributing
+## 👨‍🏫 Credits
 
-Found an issue or have a suggestion? Feel free to open an issue or submit a pull request!
+Course Author: Dr. Amine SOUMIAA  
+Program: Master SRC (M1)
+Institution: ESGI – École Supérieure de Génie Informatique  
+Website: https://www.esgi.fr/  
 
-## License
-
-This project is open source and available for educational purposes.
+© 2026 – All rights reserved for academic use.
 
 ---
 
